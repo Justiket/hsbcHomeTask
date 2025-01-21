@@ -1,2 +1,2 @@
-# hsbcHomeTask
+# HSBCHomeTask
 for hsbc home task
